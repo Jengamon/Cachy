@@ -39,7 +39,6 @@ pub trait ResourceProvider<R> {
 
 use std::rc::Rc;
 use std::collections::HashMap;
-use std::hash::Hash;
 use std::collections::hash_map::Entry;
 
 /// A store of loaded resources
@@ -48,9 +47,6 @@ pub struct Cache<R> {
     cache: HashMap<CacheId, Rc<R>>,
 
     // TODO: Add handling for async requests using futures and (maybe) bus
-    // For tracking asynchrous requests
-    requested: usize,
-    loaded: usize
 }
 
 impl<R> Cache<R> {

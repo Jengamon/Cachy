@@ -2,6 +2,12 @@
 name = "cachy"
 version = "0.1.0"
 authors = ["Bobhostern <bob.hostern@gmail.com>"]
+description = "Creates a cache for resources"
+repository = "https://github.com/Bobhostern/Cachy"
+homepage = "https://github.com/Bobhostern/Cachy"
+documentation = "https://docs.rs/cachy/0.1.0/cachy/"
+license = "MIT"
+license-file = "LICENSE"
 
 [dependencies]
 # futures = "^0.1"

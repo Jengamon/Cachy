@@ -1,0 +1,8 @@
+[package]
+name = "cachy"
+version = "0.1.0"
+authors = ["Bobhostern <bob.hostern@gmail.com>"]
+
+[dependencies]
+# futures = "^0.1"
+# bus = "^1.1"

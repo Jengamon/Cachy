@@ -54,8 +54,6 @@ impl<R> Cache<R> {
     pub fn new() -> Cache<R> {
         Cache {
             cache: HashMap::new(),
-            requested: 0,
-            loaded: 0
         }
     }
 

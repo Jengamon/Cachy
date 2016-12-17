@@ -1,6 +1,7 @@
 # Cachy - A cache for your needs
-[![docs.rs](https://docs.rs/cachy/badge.svg)]()
-[![Crates.io](https://img.shields.io/crates/v/cachy.svg)]() [![Crates.io](https://img.shields.io/crates/d/cachy.svg)]()
+[![docs.rs](https://docs.rs/cachy/badge.svg)](https://docs.rs/cachy/0.1.0/cachy/)
+[![Crates.io](https://img.shields.io/crates/v/cachy.svg)](https://crates.io/crates/cachy)
+[![Crates.io](https://img.shields.io/crates/d/cachy.svg)](https://crates.io/crates/cachy)
 
 Before I die of bad puns, I need to give you this, a cache for your every need.
 

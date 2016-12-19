@@ -1,5 +1,5 @@
 # Cachy - A cache for your needs
-[![docs.rs](https://docs.rs/cachy/badge.svg)](https://docs.rs/cachy/0.1.0/cachy/)
+[![docs.rs](https://docs.rs/cachy/badge.svg)](https://docs.rs/cachy/)
 [![Crates.io](https://img.shields.io/crates/v/cachy.svg)](https://crates.io/crates/cachy)
 [![Crates.io](https://img.shields.io/crates/d/cachy.svg)](https://crates.io/crates/cachy)
 
